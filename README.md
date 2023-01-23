@@ -4,4 +4,5 @@ The project aims to create a user-friendly app for productivity that focuses on 
 An Unstop Competiton - Won the first round (Top 16 out of 106 teams)
 
 Case Study : https://www.behance.net/kashvi05/projects
+
 Video : https://youtu.be/Rrqg-xWNYMw
